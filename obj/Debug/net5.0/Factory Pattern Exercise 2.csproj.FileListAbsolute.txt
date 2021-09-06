@@ -1,0 +1,16 @@
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\bin\Debug\net5.0\Factory Pattern Exercise 2.exe
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\bin\Debug\net5.0\Factory Pattern Exercise 2.deps.json
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\bin\Debug\net5.0\Factory Pattern Exercise 2.runtimeconfig.json
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\bin\Debug\net5.0\Factory Pattern Exercise 2.runtimeconfig.dev.json
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\bin\Debug\net5.0\Factory Pattern Exercise 2.dll
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\bin\Debug\net5.0\ref\Factory Pattern Exercise 2.dll
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\bin\Debug\net5.0\Factory Pattern Exercise 2.pdb
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\obj\Debug\net5.0\Factory Pattern Exercise 2.csproj.AssemblyReference.cache
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\obj\Debug\net5.0\Factory Pattern Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\obj\Debug\net5.0\Factory Pattern Exercise 2.AssemblyInfoInputs.cache
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\obj\Debug\net5.0\Factory Pattern Exercise 2.AssemblyInfo.cs
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\obj\Debug\net5.0\Factory Pattern Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\obj\Debug\net5.0\Factory Pattern Exercise 2.dll
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\obj\Debug\net5.0\ref\Factory Pattern Exercise 2.dll
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\obj\Debug\net5.0\Factory Pattern Exercise 2.pdb
+C:\Users\FrankDaTank\source\repos\Factory Pattern Exercise 2\obj\Debug\net5.0\Factory Pattern Exercise 2.genruntimeconfig.cache
